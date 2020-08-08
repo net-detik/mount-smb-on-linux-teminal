@@ -1,1 +1,1 @@
-mount -t cifs -o user=e-itd2 //192.168.1.3/psk-report /mnt/psk-report
+mount -t cifs -o user=detik //192.168.30.112/report /mnt/report
